@@ -1,4 +1,4 @@
-package com.github.demo.springeventlistener;
+package com.github.demo.reactivedemo.springeventlistener;
 
 import java.util.concurrent.Executor;
 import org.springframework.aop.interceptor.AsyncUncaughtExceptionHandler;
@@ -11,10 +11,10 @@ import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 
 @EnableAsync
 @SpringBootApplication
-public class DemoApplication implements AsyncConfigurer {
+public class TemperatureApplication implements AsyncConfigurer {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(TemperatureApplication.class, args);
 	}
 
 	@Override

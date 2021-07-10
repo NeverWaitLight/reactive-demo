@@ -1,3 +1,5 @@
 rootProject.name = 'reactive-demo'
-include 'spring-event-listener'
+include 'event-listener-temperature'
+include 'rx-demo'
+include 'rx-temperature'
 

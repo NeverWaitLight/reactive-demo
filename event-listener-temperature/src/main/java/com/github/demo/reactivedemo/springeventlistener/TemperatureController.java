@@ -1,4 +1,4 @@
-package com.github.demo.springeventlistener;
+package com.github.demo.reactivedemo.springeventlistener;
 
 import java.io.IOException;
 import java.util.ArrayList;

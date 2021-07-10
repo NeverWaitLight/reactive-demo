@@ -1,4 +1,4 @@
-package com.github.demo.springeventlistener;
+package com.github.demo.reactivedemo.springeventlistener;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
