@@ -1,5 +1,4 @@
 rootProject.name = 'reactive-demo'
-include 'event-listener-temperature'
 include 'rx-demo'
 include 'rx-temperature'
-
+include 'event-temperature'
